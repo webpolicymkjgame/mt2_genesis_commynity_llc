@@ -52,8 +52,8 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Welcome to Genesis Community Llc</h2>
-            <p className="about-text">Genesis Community Llc is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Genesis Community Llc – from casual games and productivity tools to educational and lifestyle applications.
+            <h2 className="highlight-title">Genesis Community Llc – Welcome Aboard</h2>
+            <p className="about-text">Genesis Community Llc is a mobile app development studio dedicated to creating innovative, high-quality, and user-friendly applications. Our official website highlights our complete portfolio – from casual games and productivity tools to educational and lifestyle apps.
             </p>
           </div>
           <div className="about-img-container">
@@ -64,7 +64,7 @@ function HomePage() {
 
       <section id="games" className="section games">
         <div className="container">
-          <h2 className="text-center">Our Products</h2>
+          <h2 className="text-center">Productivity Tools</h2>
           <div className="game-grid">
             {apps.map((game, index) => (
               <div key={index} className="game-card">
