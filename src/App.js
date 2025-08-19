@@ -53,7 +53,7 @@ function HomePage() {
         <div className="container about-row">
           <div className="about-text-container">
             <h2 className="highlight-title">Welcome to Genesis Community Llc</h2>
-            <p className="about-text">Genesis Community Llc is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Solvertech Africa Mobile – from casual games and productivity tools to educational and lifestyle applications.
+            <p className="about-text">Genesis Community Llc is a mobile app development studio focused on building innovative, high-quality, and user-friendly applications. Our official website showcases the full range of apps developed by Genesis Community Llc – from casual games and productivity tools to educational and lifestyle applications.
             </p>
           </div>
           <div className="about-img-container">
